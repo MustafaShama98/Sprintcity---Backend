@@ -5,11 +5,9 @@ SpringCity is a shipment management system built with Node.js, React, and Postgr
 
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
 - [Challenges & Future Improvements](#challenges--future-improvements)
-- [Credits](#credits)
 - [License](#license)
 
 ## Features
@@ -20,26 +18,6 @@ SpringCity is a shipment management system built with Node.js, React, and Postgr
 - **Automated Notifications** – Email and SMS alerts for shipment status changes.
 - **Admin Dashboard** – Intuitive interface for managing users, shipments, and analytics.
 - **Scalable Architecture** – Follows MVC and SOLID principles for maintainability.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables:
-   ```env
-   DATABASE_URL=your_database_url
-   CHEETAH_API_KEY=your_api_key
-   ```
-4. Run the server:
-   ```bash
-   npm start
-   ```
 
 ## Usage
 - Admins can manage shipments, users, and API settings.
@@ -59,9 +37,6 @@ SpringCity is a shipment management system built with Node.js, React, and Postgr
 - **Mobile App Support** – Extend features to mobile platforms.
 - **AI-Powered Route Optimization** – Enhance delivery efficiency using AI.
 
-## Credits
-- **Project Lead & Architect:** Mustafa Shama
-- **Collaborators:** [Your Team Members]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
